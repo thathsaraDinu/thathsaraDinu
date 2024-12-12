@@ -1,6 +1,8 @@
 <div align="center">
-  # About Me
-💫 About Me<br>I’m a software engineering student interested in mobile app development, web technologies, and database systems. I build apps that solve real-world problems.<br><br>🔭 I’m currently working on<br>Developing a mobile app that helps users recycle and buy eco-friendly items using Flutter and Firebase.<br><br>🌱 I’m currently learning<br>Advanced Flutter techniques<br>Backend development with Node.js<br>Database management with Firebase<br><br>💬 Ask me about<br>Mobile app development (Flutter), web technologies (HTML, CSS, JavaScript), and my journey in software engineering.<br><br>⚡ Fun fact<br>I picked up a little touch typing, which helps me code faster by letting me Google faster! ⌨😄💡
+# About Me<br>
+💫 About Me
+  <br>
+  I’m a software engineering student interested in mobile app development, web technologies, and database systems. I build apps that solve real-world problems.<br><br>🔭 I’m currently working on<br>Developing a mobile app that helps users recycle and buy eco-friendly items using Flutter and Firebase.<br><br>🌱 I’m currently learning<br>Advanced Flutter techniques<br>Backend development with Node.js<br>Database management with Firebase<br><br>💬 Ask me about<br>Mobile app development (Flutter), web technologies (HTML, CSS, JavaScript), and my journey in software engineering.<br><br>⚡ Fun fact<br>I picked up a little touch typing, which helps me code faster by letting me Google faster! ⌨😄💡
 </div>
 
 ## 🌐 Socials:
@@ -18,19 +20,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=thathsaraDinu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=thathsaraDinu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=thathsaraDinu&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 </div>
 
 ---
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/thathsaradinuwan) 
+## 💰 You can help me by Donating
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/thathsaradinuwan) 
 
   
