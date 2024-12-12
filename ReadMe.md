@@ -3,7 +3,7 @@
   </div>
 💫 About Me
   <br>
-  I’m a software engineering student interested in mobile app development, web technologies, and database systems. I build apps that solve real-world problems.<br><br>🔭 I’m currently working on developing a mobile app that helps users recycle and buy eco-friendly items using Flutter and Firebase.<br><br>🌱 I’m currently learning Advanced Flutter techniques<br>Backend development with Node.js<br>Database management with Firebase<br><br>💬 Ask me about Mobile app development (Flutter), web technologies (HTML, CSS, JavaScript), and my journey in software engineering.<br><br>⚡ Fun fact, I picked up a little touch typing, which helps me code faster by letting me Google faster! ⌨😄💡
+  I’m a software engineering student interested in mobile app development, web technologies, and database systems. I build apps that solve real-world problems.<br><br>🔭 I’m currently working on developing a mobile app that helps users recycle and buy eco-friendly items using Flutter and Firebase.<br><br>🌱 I’m currently learning Advanced Flutter techniques, Database management with Firebase<br><br>💬 Ask me about Mobile app development (Flutter), web technologies (HTML, CSS, JavaScript), and my journey in software engineering.<br><br>⚡ Fun fact, I picked up a little touch typing, which helps me code faster by letting me Google faster! ⌨😄💡
 
 
 ## 🌐 Socials:
