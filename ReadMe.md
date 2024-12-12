@@ -1,4 +1,4 @@
-  <h1>Hi👋🏻, I'm Thathsara Dinuwan</h1>
+<h1 align="center">Hi👋🏻, I'm Thathsara Dinuwan</h1>
   
 👨🏻‍💻 I’m a software engineering student interested in mobile app development, web technologies, and database systems. I build apps that solve real-world problems.
   
