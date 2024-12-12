@@ -14,7 +14,8 @@
 
 ## 🌍 **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge?logo=linkedin&logoColor=white)](https://linkedin.com/in/thathsara-dinuwan-6872bb2ab)  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Thathsara-Dinuwan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thathsara-dinuwan-6872bb2ab)  
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Thathsara-Dinuwan)
 
 ---
 
