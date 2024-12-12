@@ -12,8 +12,7 @@
   
   # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thathsaraDinu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thathsaraDinu&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thathsaraDinu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)![](https://github-readme-stats.vercel.app/api/top-langs/?username=thathsaraDinu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=thathsaraDinu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
