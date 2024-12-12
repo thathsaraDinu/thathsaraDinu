@@ -1,6 +1,6 @@
-# About Me
+<div align="center"># About Me
 💫 About Me<br>I’m a software engineering student interested in mobile app development, web technologies, and database systems. I build apps that solve real-world problems.<br><br>🔭 I’m currently working on<br>Developing a mobile app that helps users recycle and buy eco-friendly items using Flutter and Firebase.<br><br>🌱 I’m currently learning<br>Advanced Flutter techniques<br>Backend development with Node.js<br>Database management with Firebase<br><br>💬 Ask me about<br>Mobile app development (Flutter), web technologies (HTML, CSS, JavaScript), and my journey in software engineering.<br><br>⚡ Fun fact<br>I picked up a little touch typing, which helps me code faster by letting me Google faster! ⌨😄💡
-
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thathsara-dinuwan-6872bb2ab) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Thathsara-Dinuwan) 
@@ -10,17 +10,22 @@
 <div align="center">
   
   # 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=thathsaraDinu&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=thathsaraDinu&theme=dracula&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thathsaraDinu&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=thathsaraDinu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thathsaraDinu&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thathsaraDinu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=thathsaraDinu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=thathsaraDinu&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thathsaraDinu&icon=0&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/thathsaradinuwan) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
