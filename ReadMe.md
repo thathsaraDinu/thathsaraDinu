@@ -50,8 +50,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thathsaraDinu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=donut)
 
----
-
 </div>
 
 ---
