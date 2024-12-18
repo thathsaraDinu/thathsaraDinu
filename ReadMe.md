@@ -8,7 +8,7 @@
 
 🗨️ Ask me about Mobile app development (Flutter), web technologies (HTML, CSS, JavaScript), and my journey in software engineering.
 
-🎈 Fun fact, I picked up a little touch typing, which helps me code faster by letting me Google faster! ⌨😄💡
+<--🎈 Fun fact, I picked up a little touch typing, which helps me code faster by letting me Google faster! ⌨😄💡-->
 
 ---
 
