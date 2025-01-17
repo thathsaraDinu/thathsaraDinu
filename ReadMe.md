@@ -1,12 +1,10 @@
 <h1 align="center">Hi👋🏻, I'm Thathsara Dinuwan</h1>
   
-👨🏻‍💻 I’m a software engineering student interested in mobile app development, web technologies, and database systems. I build apps that solve real-world problems.
-  
-⚒️ I’m currently working on developing a mobile app that helps users recycle and buy eco-friendly items using Flutter and Firebase.
-  
-💻 I’m currently learning Advanced Flutter techniques, Database management with Firebase
+👨🏻‍💻 I’m a software engineering student interested in web technologies, mobile app development, and database systems. I build apps that solve real-world problems.
+    
+💻 I’m currently honing my advanced backend skills, focusing on writing clean, well-structured code and improving my expertise in database management with Firebase.
 
-🗨️ Ask me about Mobile app development (Flutter), web technologies (HTML, CSS, JavaScript), and my journey in software engineering.
+🗨️ Ask me about Web development (MERN, Next.js), mobile app development (Flutter) and my journey in software engineering.
 
 <!--🎈 Fun fact, I picked up a little touch typing, which helps me code faster by letting me Google faster! ⌨😄💡-->
 
