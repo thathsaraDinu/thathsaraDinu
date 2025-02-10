@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋🏻, I'm Thathsara Dinuwan</h1>
   
-👨🏻‍💻 I’m a software engineering student interested in web technologies, mobile app development, and database systems. I build apps that solve real-world problems.
+👨🏻‍💻 I’m a software engineering undergraduate proficient in web technologies, mobile app development, and database systems. I build apps that solve real-world problems.
     
 💻 I’m currently honing my advanced backend skills, focusing on writing clean, well-structured code and improving my expertise in database management with Firebase.
 
