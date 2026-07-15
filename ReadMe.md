@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋🏻, I'm Thathsara Dinuwan</h1>
 
 <p align="center">
-Software Engineering Undergraduate | Full-Stack Developer
+Software Engineering Graduate | Full-Stack Developer
 </p>
 
-👨🏻‍💻 I’m a software engineering undergraduate interested in web development, backend systems, mobile applications, and database-driven applications.
+👨🏻‍💻 I am a Software Engineering graduate with a Bachelor of Science (Hons) in Information Technology, specializing in Software Engineering. I enjoy building web applications, backend systems, and mobile applications using modern technologies.
 
-💻 I build applications using modern technologies while improving my skills in software architecture, API design, and scalable backend development.
+💻 I work with full-stack development, focusing on clean code, scalable backend architecture, API design, and database-driven applications. I am continuously improving my software engineering practices and exploring better ways to design and develop reliable systems.
 
-🚀 Currently focusing on strengthening my backend engineering skills and building well-structured, maintainable systems.
+🚀 Interested in building practical solutions and developing maintainable software that solves real-world problems.
+
 
 ---
 
